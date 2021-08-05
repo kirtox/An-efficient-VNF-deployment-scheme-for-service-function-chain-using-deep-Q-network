@@ -53,16 +53,16 @@
 ## Run run.bat
 - It is a batch file.
 - Line 1:
-	- 'call C:\Users\SNMLAB\Anaconda3\Scripts\activate.bat C:\Users\SNMLAB\Anaconda3'
+	- `call C:\Users\SNMLAB\Anaconda3\Scripts\activate.bat C:\Users\SNMLAB\Anaconda3`
 	- It need to know where the activate.bat of Anaconda3 is.
 - Line 2:
-	- 'python main.py'
+	- `python main.py`
 	- Run DQN-QQE, random, and brute force.
 - Line 3:
-	- 'python main_QQ.py'
+	- `python main_QQ.py`
 	- Run DQN-Q2-SFC
 - Line 4:
-	- 'pause'
+	- `pause`
 	- Stop batch file.
 
 ***
