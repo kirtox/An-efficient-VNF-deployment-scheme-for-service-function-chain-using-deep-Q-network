@@ -53,7 +53,7 @@
 ## Run run.bat
 - It is a batch file.
 - Line 1:
-	- call C:\Users\SNMLAB\Anaconda3\Scripts\activate.bat C:\Users\SNMLAB\Anaconda3
+	- '''call C:\Users\SNMLAB\Anaconda3\Scripts\activate.bat C:\Users\SNMLAB\Anaconda3'''
 	- It need to know where the activate.bat of Anaconda3 is.
 - Line 2:
 	- python main.py
