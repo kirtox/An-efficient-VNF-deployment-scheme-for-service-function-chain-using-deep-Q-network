@@ -1,4 +1,4 @@
-# An-Efficient-VNF-Deployment-Mechanism-for-SFC-in-5G-using-Deep-Q-Network
+# An efficient virtualized network function deployment scheme for service function chain using deep Q-network
 
 ***
 
