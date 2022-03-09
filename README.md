@@ -14,6 +14,8 @@
 
 - dqn.py
 	- There are the neural network structure and lots of DQN functions.
+- energy.py
+	- It contains the energy process.
 
 - config.py
 	- It sets lots of parameters.
